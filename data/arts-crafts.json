@@ -1,0 +1,26 @@
+{
+    "title": "Arts and Crafts of Mithila",
+    "mainImage": "/images/arts-crafts-main.jpg",
+    "content": [
+      "Mithila art, also known as Madhubani art, is a style of Indian painting, practiced in the Mithila region of India and Nepal.",
+      "This style of painting has been traditionally done by the women of the region, though today men are also involved.",
+      "Mithila paintings are known for their eye-catching geometrical patterns and their portrayal of nature and Hindu religious motifs."
+    ],
+    "artForms": [
+      {
+        "name": "Madhubani Painting",
+        "description": "A style of painting done with fingers, twigs, brushes, nib-pens, and matchsticks, using natural dyes and pigments.",
+        "image": "/images/madhubani-painting.jpg"
+      },
+      {
+        "name": "Sujni Embroidery",
+        "description": "A type of embroidery work done on quilted cloth, often depicting scenes from nature and rural life.",
+        "image": "/images/sujni-embroidery.jpg"
+      },
+      {
+        "name": "Sikki Grass Craft",
+        "description": "An art form that uses golden-colored grass to create intricate baskets, toys, and decorative items.",
+        "image": "/images/sikki-grass-craft.jpg"
+      }
+    ]
+  }

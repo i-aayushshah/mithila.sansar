@@ -1,0 +1,68 @@
+{
+    "title": "Literature of Mithila",
+    "mainImage": "/images/literature-main.jpg",
+    "content": [
+      "Mithila has a rich literary tradition dating back centuries, with works in Sanskrit, Maithili, and other languages.",
+      "The region has produced many renowned poets, writers, and scholars who have contributed significantly to Indian literature.",
+      "Mithila literature encompasses various genres including poetry, drama, philosophy, and religious texts."
+    ],
+    "authors": [
+      {
+        "name": "Vidyapati",
+        "bio": "A 14th-century poet known for his love songs and devotional poetry in Maithili.",
+        "famousWork": "Padavali",
+        "image": "/images/vidyapati.jpg"
+      },
+      {
+        "name": "Chanda Jha",
+        "bio": "A 20th-century Maithili writer and linguist who played a crucial role in the promotion of Maithili language and literature.",
+        "famousWork": "Maithili Laghu Katha",
+        "image": "/images/chanda-jha.jpg"
+      },
+
+      {
+        "name": "Gangesh Upadhyaya",
+        "bio": "A 12th-century philosopher and logician who founded the Navya-Nyaya school of Indian logic.",
+        "famousWork": "Tattvacintamani",
+        "image": "/images/gangesh-upadhyaya.png"
+      },
+      {
+        "name": "Jyotirishwar Thakur",
+        "bio": "A 14th-century writer known for his work on poetry and dramaturgy.",
+        "famousWork": "Varnaratnakara",
+        "image": "/images/jyotirishwar-thakur.jpg"
+      },
+      {
+        "name": "Mandan Mishra",
+        "bio": "An 8th-century philosopher and author of several works on Mimamsa philosophy.",
+        "famousWork": "Mimamsa Anukramanika",
+        "image": "/images/mandan-mishra.jpg"
+      },
+      {
+        "name": "Kavi Kokil",
+        "bio": "A 17th-century poet known for his works in Maithili, often called the 'Cuckoo of Poetry' for his melodious verse.",
+        "famousWork": "Rasraj",
+        "image": "/images/image-not-found.png"
+      },
+
+
+      {
+        "name": "Harimohan Jha",
+        "bio": "A 20th-century Maithili humorist and novelist, celebrated for his satirical works.",
+        "famousWork": "Kanyadan",
+        "image": "/images/harimohan-jha.jpg"
+      },
+      {
+        "name": "Maithili Thakur",
+        "bio": "Maithili Thakur is a prominent contemporary singer and performer known for her contributions to Maithili folk music.",
+        "famousWork": "Kanha Nahi Aaye",
+        "image": "/images/maithili-thakur.jpg"
+      },
+      {
+        "name": "Lalit Narayan Mishra",
+        "bio": "A 20th-century Maithili poet and scholar, known for his contributions to Maithili literature and his efforts to promote the Maithili language.",
+        "famousWork": "Maithili Sahitya ka Itihas",
+        "image": "/images/lalit-narayan-mishra.jpg"
+      }
+    ]
+  }

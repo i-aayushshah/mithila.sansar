@@ -1,0 +1,34 @@
+{
+    "topics": [
+      {
+        "id": "history",
+        "title": "History",
+        "content": "Explore the rich history of Mithila, from ancient times to the modern era.",
+        "image": "/images/history-main.jpg"
+      },
+      {
+        "id": "arts-crafts",
+        "title": "Arts & Crafts",
+        "content": "Discover the intricate Madhubani paintings and other traditional crafts of Mithila.",
+        "image": "/images/arts-crafts-main.jpg"
+      },
+      {
+        "id": "cuisine",
+        "title": "Cuisine",
+        "content": "Savor the flavors of Mithila cuisine, known for its unique taste and preparation methods.",
+        "image": "/images/litti-chokha.jpg"
+      },
+      {
+        "id": "festivals",
+        "title": "Festivals",
+        "content": "Experience the vibrant celebrations and festivals that bring Mithila culture to life.",
+        "image": "/images/chhath-puja.jpg"
+      },
+      {
+        "id": "literature",
+        "title": "Literature",
+        "content": "Dive into the world of Maithili literature, from ancient texts to contemporary works.",
+        "image": "/images/literature-main.jpg"
+      }
+    ]
+  }

@@ -1,0 +1,47 @@
+{
+    "title": "Festivals of Mithila",
+    "mainImage": "/images/festivals-main.jpg",
+    "content": [
+      "Mithila region is known for its vibrant and colorful festivals that reflect its rich cultural heritage.",
+      "These festivals are not just religious celebrations but also social gatherings that strengthen community bonds.",
+      "Many of these festivals are unique to the Mithila region and showcase its distinct traditions and customs."
+    ],
+    "festivals": [
+      {
+        "name": "Chhath Puja",
+        "description": "A festival dedicated to the Sun God, celebrated on the banks of rivers and ponds.",
+        "date": "October/November",
+        "image": "/images/chhath-puja.jpg"
+      },
+      {
+        "name": "Sama-Chakeva",
+        "description": "A festival celebrating the bond between brothers and sisters, unique to the Mithila region.",
+        "date": "November",
+        "image": "/images/sama-chakeva.jpg"
+      },
+      {
+        "name": "Jur Sital",
+        "description": "A summer festival where people worship the Banyan tree and pray for good harvests.",
+        "date": "May/June",
+        "image": "/images/jur-sital.jpg"
+      },
+      {
+        "name": "Madhushravani",
+        "description": "A 13-day festival observed by newly married women, involving fasting and storytelling.",
+        "date": "July/August",
+        "image": "/images/madhushravani.jpg"
+      },
+      {
+        "name": "Jitiya",
+        "description": "A festival observed by women for the well-being of their children and family, involving fasting and rituals.",
+        "date": "September",
+        "image": "/images/jitiya.jpg"
+      },
+      {
+        "name": "Bihula",
+        "description": "A festival celebrating the story of Bihula and her dedication to her husband, with rituals and traditional songs.",
+        "date": "August",
+        "image": "/images/Bihula.jpg"
+      }
+    ]
+  }

@@ -1,0 +1,35 @@
+{
+  "title": "History of Mithila",
+  "mainImage": "/images/history-main.jpg",
+  "content": [
+    "Mithila has a rich history dating back to ancient times, with mentions in Hindu epics like the Ramayana and Mahabharata.",
+    "The region has been a center of learning and culture, home to many philosophers, scholars, and artists over the centuries.",
+    "Mithila has seen the rise and fall of various dynasties and has been influenced by different cultures, resulting in its unique heritage."
+  ],
+  "historicalEvents": [
+    {
+      "title": "Ramayana Era",
+      "description": "Mithila was the kingdom of King Janaka, father of Sita in the Ramayana.",
+      "image": "/images/ramayana-era.jpg",
+      "date": "circa 5000 BCE"
+    },
+    {
+      "title": "Licchavi Period",
+      "description": "The Licchavi dynasty ruled Mithila from around 1st century BCE to 8th century CE.",
+      "image": "/images/licchavi-period.jpg",
+      "date": "1st century BCE - 8th century CE"
+    },
+    {
+      "title": "Karnata Dynasty",
+      "description": "The Karnata dynasty ruled Mithila from the 11th to 14th century CE.",
+      "image": "/images/karnata-dynasty.jpg",
+      "date": "11th - 14th century CE"
+    },
+    {
+      "title": "Darbhanga Raj",
+      "description": "The Darbhanga Raj was established in the 16th century and continued until Indian independence.",
+      "image": "/images/darbhanga-raj.jpg",
+      "date": "16th century - 1947 CE"
+    }
+  ]
+}

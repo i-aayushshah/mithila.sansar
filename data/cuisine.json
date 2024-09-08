@@ -1,0 +1,56 @@
+{
+    "title": "Cuisine of Mithila",
+    "mainImage": "/images/cuisine-main.jpg",
+    "content": [
+      "Mithila cuisine is known for its unique flavors, use of local ingredients, and traditional cooking methods. The cuisine is largely vegetarian, with a focus on seasonal produce and dairy products.",
+      "One of the distinctive features of Mithila cuisine is the use of mustard oil and spices like cumin, coriander, and fenugreek. The region is also famous for its sweets, many of which are made using milk and jaggery.",
+      "Mithila's culinary traditions are closely tied to its cultural and religious practices. Many dishes are prepared specifically for festivals and ceremonies, reflecting the region's rich cultural heritage."
+    ],
+    "dishes": [
+      {
+        "name": "Litti Chokha",
+        "description": "A traditional dish made of wheat flour dough balls filled with roasted gram flour and served with mashed vegetables.",
+        "image": "/images/litti-chokha.jpg"
+      },
+      {
+        "name": "Thekua",
+        "description": "A sweet delicacy made from wheat flour, jaggery, and ghee, often prepared during the Chhath festival.",
+        "image": "/images/thekua.jpg"
+      },
+      {
+        "name": "Makhana Kheer",
+        "description": "A dessert made from fox nuts (makhana) cooked in milk and sweetened with sugar.",
+        "image": "/images/makhana-kheer.jpg"
+      },
+      {
+        "name": "Dahi Chura",
+        "description": "A popular breakfast dish made of flattened rice (chura) mixed with yogurt (dahi) and jaggery.",
+        "image": "/images/dahi-chura.jpg"
+      },
+      {
+        "name": "Ghughni",
+        "description": "A spicy curry made from black chickpeas, often served as a snack or side dish.",
+        "image": "/images/ghughni.jpg"
+      },
+      {
+        "name": "Taruwa",
+        "description": "A traditional dish made from a variety of seasonal vegetables and spices, cooked with mustard oil.",
+        "image": "/images/taruwa.jpg"
+      },
+      {
+        "name": "Bhagiya",
+        "description": "A savory snack made from spiced lentil dough, shaped into small fritters and deep-fried.",
+        "image": "/images/bhagiya.jpg"
+      },
+      {
+        "name": "Kadhi",
+        "description": "A yogurt-based curry with a tangy flavor, cooked with spices and often served with rice.",
+        "image": "/images/kadhi.jpg"
+      },
+      {
+        "name": "Jhilli",
+        "description": "A deep-fried snack made from spiced lentil batter, resulting in crispy, golden-brown fritters.",
+        "image": "/images/jhilli.jpg"
+      }
+    ]
+  }
