@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { truncateString } from '../../utils/helpers';
 
-const OPENAI_API_KEY = 'sk-P_PdkEPin5ppd_vH873ZQoU9uR4zCMtEe5YabcWjjOT3BlbkFJDCAQ91AxNfULfEpPbIbAoQTvCtGhQIjPLV5sP4N6oA';
+const OPENAI_API_KEY = 'API Key';
 
 
 const translateToMaithili = async (text) => {
