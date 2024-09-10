@@ -2,7 +2,7 @@
 
 import axios from 'axios';
 
-const OPENAI_API_KEY = 'sk-P_PdkEPin5ppd_vH873ZQoU9uR4zCMtEe5YabcWjjOT3BlbkFJDCAQ91AxNfULfEpPbIbAoQTvCtGhQIjPLV5sP4N6oA';
+const OPENAI_API_KEY = 'API_key';
 
 // Function to format the response to ensure proper separation
 const formatResponse = (response) => {
